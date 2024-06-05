@@ -29,4 +29,5 @@ Estoy interesado en colaborar en proyectos de experiencia de usuario, diseño de
 
 ## Control de versiones 🔄
 - GIT
+- VUE
 

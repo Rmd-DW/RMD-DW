@@ -21,13 +21,13 @@ Estoy interesado en colaborar en proyectos de experiencia de usuario, diseño de
 
 
 ## Tecnología Web 💻
-- Wordpress
 - HTML
 - CSS
 - BOOTSTRAP
 - JAVASCRIPT
+- VUE
 
 ## Control de versiones 🔄
 - GIT
-- VUE
+
 

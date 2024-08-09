@@ -25,6 +25,7 @@ Estoy interesado en colaborar en proyectos de experiencia de usuario, diseño de
 ## Tecnología Web 💻
 - HTML
 - CSS
+- SASS
 - BOOTSTRAP
 - JAVASCRIPT
 - VUE
